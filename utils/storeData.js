@@ -7,18 +7,122 @@ const stores = [
             // Cárnicos
             {
                 id: 1,
-                name: "Pollo Entero",
-                price: 24.99,
-                image: "https://images.unsplash.com/photo-1587593810167-a84920ea0781",
-                description: "Pollo fresco de granja",
+                name: "Pierna de Cerdo",
+                price: 3.80,
+                image: "pierna.jpg",
+                description: "x lb ",
                 category: "Cárnicos"
             },
             {
                 id: 2,
-                name: "Carne de Res",
-                price: 29.99,
-                image: "https://images.unsplash.com/photo-1603048297172-c85976ea7bed",
-                description: "Corte premium de res",
+                name: "Caja de Pollo",
+                price: 48,
+                image: "pollocaja.jpg",
+                description: "caja de 33 lb",
+                category: "Cárnicos"
+            },
+            {
+                id: 3,
+                name: "Caja de Pollo",
+                price: 58,
+                image: "pollocaja.jpg",
+                description: "caja de 40 lb",
+                category: "Cárnicos"
+            },
+            {
+                id: 4,
+                name: "Lomo de cerdo deshuesado ",
+                price: 5.20,
+                image: "lomo.jpg",
+                description: "x Lb Importado",
+                category: "Cárnicos"
+            },
+            {
+                id: 5,
+                name: "Masas de Cerdo ",
+                price: 19,
+                image: "masas.jpg",
+                description: "bolsa sellada al vacio de 4lb ",
+                category: "Cárnicos"
+            },
+            {
+                id: 6,
+                name: "Bistec de cerdo",
+                price: 10.5,
+                image: "bistec.jpg",
+                description: "bandeja de bistec sellada al vacio 2.2 lb",
+                category: "Cárnicos"
+            },
+            {
+                id: 7,
+                name: "Pollo x Lb ",
+                price: 1.6,
+                image: "pollo.jpg",
+                description: "Bolsa sellada segun pedido",
+                category: "Cárnicos"
+            },
+            {
+                id: 8,
+                name: "Jamon vicky",
+                price: 3.50,
+                image: "vicky.jpg",
+                description: "tubo sellado segun pedido ",
+                category: "Cárnicos"
+            },
+            {
+                id: 9,
+                name: "Lomo ahumado",
+                price: 6.5,
+                image: "ahumado.jpg",
+                description: "porcionado y sellado x lb según pedido",
+                category: "Cárnicos"
+            },
+            {
+                id: 10,
+                name: "Lomo Ahumado ",
+                price: 48,
+                image: "ahumado.jpg",
+                description: "bandeja sellada al vacio de 1.2 lb lasqueado ",
+                category: "Cárnicos"
+            },
+            {
+                id: 10,
+                name: "Lomo Ahumado ",
+                price: 48,
+                image: "",
+                description: "bandeja sellada al vacio de 1.2 lb lasqueado ",
+                category: "Cárnicos"
+            },
+            {
+                id: 10,
+                name: "Lomo Ahumado ",
+                price: 48,
+                image: "",
+                description: "bandeja sellada al vacio de 1.2 lb lasqueado ",
+                category: "Cárnicos"
+            },
+            {
+                id: 10,
+                name: "Lomo Ahumado ",
+                price: 48,
+                image: "",
+                description: "bandeja sellada al vacio de 1.2 lb lasqueado ",
+                category: "Cárnicos"
+            },
+            {
+                id: 10,
+                name: "Lomo Ahumado ",
+                price: 48,
+                image: "",
+                description: "bandeja sellada al vacio de 1.2 lb lasqueado ",
+                category: "Cárnicos"
+            },
+            {
+                id: 10,
+                name: "Lomo Ahumado ",
+                price: 48,
+                image: "",
+                description: "bandeja sellada al vacio de 1.2 lb lasqueado ",
                 category: "Cárnicos"
             },
             // Lácteos
@@ -26,7 +130,7 @@ const stores = [
                 id: 3,
                 name: "Queso Fresco",
                 price: 15.99,
-                image: "https://images.unsplash.com/photo-1486297678162-eb2a19b0a32d",
+                image: "",
                 description: "Queso artesanal premium",
                 category: "Lácteos"
             },
@@ -34,7 +138,7 @@ const stores = [
                 id: 4,
                 name: "Yogurt Natural",
                 price: 8.99,
-                image: "https://images.unsplash.com/photo-1488477181946-6428a0291777",
+                image: "",
                 description: "Yogurt natural sin azúcar añadido",
                 category: "Lácteos"
             },
@@ -43,7 +147,7 @@ const stores = [
                 id: 5,
                 name: "Mix de Frutas",
                 price: 9.99,
-                image: "https://images.unsplash.com/photo-1619566636858-adf3ef46400b",
+                image: "",
                 description: "Selección de frutas frescas de temporada",
                 category: "Frutas"
             },
@@ -51,26 +155,26 @@ const stores = [
                 id: 6,
                 name: "Plátanos Orgánicos",
                 price: 4.99,
-                image: "https://images.unsplash.com/photo-1571771894821-ce9b6c11b08e",
+                image: "",
                 description: "Plátanos orgánicos maduros",
                 category: "Frutas"
             },
-            // Verduras
+            // Del Agro:
             {
                 id: 7,
                 name: "Verduras Mixtas",
                 price: 12.99,
-                image: "https://images.unsplash.com/photo-1597362925123-77861d3fbac7",
+                image: "",
                 description: "Verduras orgánicas cultivadas localmente",
-                category: "Verduras"
+                category: "Del Agro"
             },
             {
                 id: 8,
                 name: "Tomates Frescos",
                 price: 5.99,
-                image: "https://images.unsplash.com/photo-1546094096-0df4bcaaa337",
+                image: "",
                 description: "Tomates frescos de huerta",
-                category: "Verduras"
+                category: "Del Agro"
             }
         ]
     }

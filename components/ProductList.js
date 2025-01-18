@@ -15,7 +15,7 @@ function ProductList({ products, onAddToCart }) {
             'Cárnicos': {  color: 'text-red-500' },
             'Lácteos': { color: 'text-blue-500' },
             'Frutas': {  color: 'text-orange-500' },
-            'Verduras': {  color: 'text-green-500' }
+            'Del Agro': {  color: 'text-green-500' }
         };
 
         return (
