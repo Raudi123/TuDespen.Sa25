@@ -12,10 +12,10 @@ function ProductList({ products, onAddToCart }) {
 
         // Category display order and icons
         const categoryConfig = {
-            'Cárnicos': { icon: 'fa-drumstick-bite', color: 'text-red-500' },
-            'Lácteos': { icon: 'fa-cheese', color: 'text-blue-500' },
-            'Frutas': { icon: 'fa-apple-alt', color: 'text-orange-500' },
-            'Verduras': { icon: 'fa-carrot', color: 'text-green-500' }
+            'Cárnicos': {  color: 'text-red-500' },
+            'Lácteos': { color: 'text-blue-500' },
+            'Frutas': {  color: 'text-orange-500' },
+            'Verduras': {  color: 'text-green-500' }
         };
 
         return (
