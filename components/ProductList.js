@@ -14,7 +14,8 @@ function ProductList({ products, onAddToCart }) {
         const categoryConfig = {
             'Cárnicos': {  color: 'text-red-500' },
             'Lácteos': { color: 'text-blue-500' },
-            'Frutas': {  color: 'text-orange-500' },
+            'Líquidos': {  color: 'text-orange-500' },
+            'Pastas, Aderezos y Aceites': {  color: 'text-yellow-500' },
             'Del Agro': {  color: 'text-green-500' }
         };
 
