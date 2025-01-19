@@ -40,7 +40,7 @@ function FeatureBoxes() {
                     
                     <div data-name="feature-box-quality" className="relative overflow-hidden rounded-lg group">
                         <img 
-                            src="https://images.unsplash.com/photo-1542838132-92c53300491e"
+                            src="atencion.jpg"
                             alt="Quality" 
                             className="w-full h-64 object-cover transform group-hover:scale-110 transition-transform duration-500"
                         />

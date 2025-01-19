@@ -89,7 +89,7 @@ const stores = [
                 id: 11,
                 name: "Pechuga de pollo ",
                 price: 5.20,
-                image: "",
+                image: "pechuga.jpg",
                 description: "x Lb de bistec de pechuga sellada ",
                 category: "Cárnicos"
             },
@@ -97,7 +97,7 @@ const stores = [
                 id: 12,
                 name: "Jamón Embuchado ",
                 price: 4.00,
-                image: "",
+                image: "embuchado.jpg",
                 description: "Porción sellada según peso requerido x el cliente ",
                 category: "Cárnicos"
             },
@@ -105,7 +105,7 @@ const stores = [
                 id: 13,
                 name: "Picadillo Mixto ",
                 price: 2.50,
-                image: "",
+                image: "picadillo.jpg",
                 description: "unidad de 400 gr",
                 category: "Cárnicos"
             },
@@ -113,7 +113,7 @@ const stores = [
                 id: 14,
                 name: "Salchichas  ",
                 price: 2.80,
-                image: "",
+                image: "perritos.jpg",
                 description: "paquete de 12 unidades ",
                 category: "Cárnicos"
             },
@@ -121,7 +121,7 @@ const stores = [
                 id: 15,
                 name: "Chorizo Tipo vela ",
                 price: 3.60,
-                image: "",
+                image: "vela.jpg",
                 description: "x lb porcion sellada segun pedido del cliente",
                 category: "Cárnicos"
             },
@@ -129,7 +129,7 @@ const stores = [
                 id: 16,
                 name: "Atún",
                 price: 13,
-                image: "",
+                image: "atun.jpg",
                 description: "Lata de 1 Kg en aceite ",
                 category: "Cárnicos"
             },
@@ -138,7 +138,7 @@ const stores = [
                 id: 17,
                 name: "Cerveza Cristal",
                 price: 22,
-                image: "",
+                image: "cristal.jpg",
                 description: "Caja de 24 uds ",
                 category: "Líquidos"
             },
@@ -146,7 +146,7 @@ const stores = [
                 id: 18,
                 name: "Cerveza Bucanero",
                 price: 22,
-                image: "",
+                image: "bucanero.jpg",
                 description: "Caja de 24 uds ",
                 category: "Líquidos"
             },
@@ -154,7 +154,7 @@ const stores = [
                 id: 19,
                 name: "Cerveza Economica",
                 price: 18,
-                image: "",
+                image: "timber.jpg",
                 description: "Caja de 24 uds ",
                 category: "Líquidos"
             },
@@ -162,7 +162,7 @@ const stores = [
                 id: 20,
                 name: "Vino Acantus",
                 price: 5,
-                image: "",
+                image: "acantus.jpg",
                 description: "Rosado, tinto , Blanco",
                 category: "Líquidos"
             },
@@ -170,7 +170,7 @@ const stores = [
                 id: 21,
                 name: "Vino Espumoso",
                 price: 10,
-                image: "",
+                image: "espumoso.jpg",
                 description: "Varons d Valls 750 ml",
                 category: "Líquidos"
             },
@@ -178,7 +178,7 @@ const stores = [
                 id: 22,
                 name: "Ron Habana Club",
                 price: 7.70,
-                image: "",
+                image: "3años.jpg",
                 description: "Añejo 3 años 750 ml ",
                 category: "Líquidos"
             },
@@ -186,7 +186,7 @@ const stores = [
                 id: 23,
                 name: "Malta Guajira ",
                 price: 6.50,
-                image: "",
+                image: "guajira.jpg",
                 description: "Blister de 6 uds de 500 ml ",
                 category: "Líquidos"
             },
@@ -194,7 +194,7 @@ const stores = [
                 id: 24,
                 name: "Jugo",
                 price: 14.40,
-                image: "",
+                image: "200ml.jfif",
                 description: "Caja de 24 uds de 200 ml ",
                 category: "Líquidos"
             },
@@ -202,7 +202,7 @@ const stores = [
                 id: 25,
                 name: "Jugo",
                 price: 1.60,
-                image: "",
+                image: "naranja.jpg",
                 description: "Jugo La estancia Sabor Naranja 1 L ",
                 category: "Líquidos"
             },
@@ -210,7 +210,7 @@ const stores = [
                 id: 26,
                 name: "Jugo ",
                 price: 6.50,
-                image: "",
+                image: "multifrutas.jpg",
                 description: "Blister de 6 uds 330 ml Multifrutas de lata  ",
                 category: "Líquidos"
             },
