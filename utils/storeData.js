@@ -218,7 +218,7 @@ const stores = [
                 id: 27,
                 name: "Malta Morena ",
                 price: 18,
-                image: "",
+                image: "morena.jpg",
                 description: "Caja de 24 uds ",
                 category: "Líquidos"
             },
@@ -226,7 +226,7 @@ const stores = [
                 id: 28,
                 name: "Refresco ",
                 price: 1,
-                image: "",
+                image: "refrescolata.jpg",
                 description: "Lata 330 ml ",
                 category: "Líquidos"
             },
@@ -234,7 +234,7 @@ const stores = [
                 id: 29,
                 name: "Refresco ",
                 price: 1,
-                image: "",
+                image: "1.5lt.jpg",
                 description: "Pomo de 1.5 Lt ",
                 category: "Líquidos"
             },
@@ -242,7 +242,7 @@ const stores = [
                 id: 30,
                 name: "Café ",
                 price: 6.90,
-                image: "",
+                image: "aroma.jpg",
                 description: "Paquete de 250 gr ",
                 category: "Líquidos"
             },
@@ -251,7 +251,7 @@ const stores = [
                 id: 31,
                 name: "pasta de tomate Sabrosísimo",
                 price: 3.20,
-                image: "",
+                image: "800gr.jpg",
                 description: "Pasta doble concentrado 800 gr",
                 category: "Pastas, Aderezos y Aceites"
             },
@@ -259,7 +259,7 @@ const stores = [
                 id: 32,
                 name: "Pasta de tomate Vima",
                 price: 5.99,
-                image: "",
+                image: "vima.jpg",
                 description: "Tomates frescos de huerta",
                 category: "Pastas, Aderezos y Aceites"
             },
@@ -267,7 +267,7 @@ const stores = [
                 id: 33,
                 name: "Mayonesa Celorio ",
                 price: 6.50,
-                image: "",
+                image: "mayonesa.jpg",
                 description: "Pomo de 450 gr" , 
                 category: "Pastas, Aderezos y Aceites"
             },
@@ -275,7 +275,7 @@ const stores = [
                 id: 34,
                 name: "Pasta de Bocadito Aldaketa",
                 price: 5.8,
-                image: "",
+                image: "bocadito.jpg",
                 description: "Pomo de 450 gr ",
                 category: "Pastas, Aderezos y Aceites"
             },
@@ -283,7 +283,7 @@ const stores = [
                 id: 35,
                 name: "Spaguetis",
                 price: 1.55,
-                image: "",
+                image: "spaguetis.jpg",
                 description: "Bolsa de 500 gr",
                 category: "Pastas, Aderezos y Aceites"
             },
@@ -291,7 +291,7 @@ const stores = [
                 id: 36,
                 name: "Codito",
                 price: 1.55,
-                image: "",
+                image: "coditos.jpg",
                 description: "Bolsa de 500 gr",
                 category: "Pastas, Aderezos y Aceites"
             },
@@ -299,7 +299,7 @@ const stores = [
                 id: 37,
                 name: "Fideos ",
                 price: 1.90,
-                image: "",
+                image: "fideos.jpg",
                 description: "bolsa de 500 gr",
                 category: "Pastas, Aderezos y Aceites"
             },
@@ -307,7 +307,7 @@ const stores = [
                 id: 38,
                 name: "Sopa Intantanea ",
                 price: 1.50,
-                image: "",
+                image: "sopa.jpg",
                 description: "Sabor pollo sobre 75 gr",
                 category: "Pastas, Aderezos y Aceites"
             },
@@ -315,7 +315,7 @@ const stores = [
                 id: 39,
                 name: "Aceite de girasol",
                 price: 2.80,
-                image: "",
+                image: "aceite.jpg",
                 description: "Botella de 900 ml",
                 category: "Pastas, Aderezos y Aceites"
             },
@@ -323,7 +323,7 @@ const stores = [
                 id: 40,
                 name: "Cartón de huevos",
                 price: 12,
-                image: "",
+                image: "huevo.jpg",
                 description: "30 uds frescos",
                 category: "Pastas, Aderezos y Aceites"
             },
@@ -332,7 +332,7 @@ const stores = [
                 id: 41,
                 name: "Queso Gouda ",
                 price: 13.5,
-                image: "",
+                image: "queso.jpg",
                 description: "Porción de 1 kg sellado",
                 category: "Lácteos"
             },
@@ -340,7 +340,7 @@ const stores = [
                 id: 42,
                 name: "Yogurt Probiótico",
                 price: 15,
-                image: "",
+                image: "yogurt.jpg",
                 description: "Cubeta de 4L ",
                 category: "Lácteos"
             },
@@ -348,7 +348,7 @@ const stores = [
                 id: 43,
                 name: "Queso Crema ",
                 price: 4.20,
-                image: "",
+                image: "crema.jpg",
                 description: "Pote de 300 gr  ",
                 category: "Lácteos"
             },
@@ -356,7 +356,7 @@ const stores = [
                 id: 44,
                 name: "Helado ",
                 price: 12,
-                image: "",
+                image: "helado.jpg",
                 description: "Caja de 4L  ",
                 category: "Lácteos"
             },
@@ -364,7 +364,7 @@ const stores = [
                 id: 45,
                 name: "Leche en Polvo",
                 price: 10,
-                image: "",
+                image: "lechepolvo.jpg",
                 description: "Bolsa de 1 kg  ",
                 category: "Lácteos"
             },
@@ -372,7 +372,7 @@ const stores = [
                 id: 46,
                 name: "Leche Condensada",
                 price: 1.90,
-                image: "",
+                image: "condensada.jpg",
                 description: "Lata con abre fácil ",
                 category: "Lácteos"
             },
@@ -381,7 +381,7 @@ const stores = [
                 id: 47,
                 name: "Ajo",
                 price: 4.7,
-                image: "",
+                image: "ajo.jpg",
                 description: "Bolsa de 10 cabezas",
                 category: "Del Agro"
             },
@@ -389,7 +389,7 @@ const stores = [
                 id: 48,
                 name: "Malanga ",
                 price: 4.20,
-                image: "",
+                image: "malanga.jpg",
                 description: "bolsa de 5 lb",
                 category: "Del Agro"
             },
@@ -397,7 +397,7 @@ const stores = [
                 id: 49,
                 name: "cebolla ",
                 price: 4.20,
-                image: "",
+                image: "cebolla.jpg",
                 description: "bolsa de 20 uds",
                 category: "Del Agro"
             },
@@ -405,7 +405,7 @@ const stores = [
                 id: 48,
                 name: "Tomate",
                 price: 7.40,
-                image: "",
+                image: "tomate.jpg",
                 description: "bolsa de 5 lb",
                 category: "Del Agro"
             },
@@ -413,7 +413,7 @@ const stores = [
                 id: 49,
                 name: "Col ",
                 price: 1.70,
-                image: "",
+                image: "col.jpg",
                 description: "bolsa con 1 unidad sellada",
                 category: "Del Agro"
             },
@@ -421,9 +421,155 @@ const stores = [
                 id: 50,
                 name: "Boniato ",
                 price: 2.40,
-                image: "",
+                image: "boniato",
                 description: "bolsa de 5 lb",
                 category: "Del Agro"
+            },
+            //Del Hogar
+            {
+                id: 51,
+                name: "Frazada de limpiar suelo",
+                price: 4.7,
+                image: "frazada.jpg",
+                description: "1 unidad",
+                category: "Del Del Hogar"
+            },
+            {
+                id: 52,
+                name: "Detergente para ropa",
+                price: 4.20,
+                image: "4en1.jpg",
+                description: "bolsa de 5 lb",
+                category: "Del Hogar"
+            },
+            {
+                id: 53,
+                name: "Detergente polvo Multiuso ",
+                price: 4.20,
+                image: "detergente.jpg",
+                description: "bolsa de 500 gr",
+                category: "Del Hogar"
+            },
+            {
+                id: 54,
+                name: "Jabon De Olor",
+                price: 7.40,
+                image: "Jabon.jpg",
+                description: "por unidades",
+                category: "Del Hogar"
+            },
+            {
+                id: 55,
+                name: "Papel Higienico ",
+                price: 1.70,
+                image: "papel.jpg",
+                description: "bolsa con 4 unidad sellada",
+                category: "Del Hogar"
+            },
+            {
+                id: 56,
+                name: "Perlas de olor para ropa ",
+                price: 1.70,
+                image: "papel.jpg",
+                description: "frasco de 200 gr",
+                category: "Del Hogar"
+            },
+            {
+                id: 57,
+                name: " Suavizante para ropa ",
+                price: 1.70,
+                image: "suavizante.jpg",
+                description: "Pomo de 1 lt",
+                category: "Del Hogar"
+            },
+            {
+                id: 58,
+                name: " Toallitas humedas multiuso premiun ",
+                price: 1.70,
+                image: "toallas.jpg",
+                description: "Paquete de 120 udst",
+                category: "Del Hogar"
+            },
+            {
+                id: 59,
+                name: "Pastillas de inodoro ",
+                price: 2.40,
+                image: "pastillas.jpg",
+                description: "bolsa de 5 lb",
+                category: "Del Hogar"
+            },
+            //De Electrodomésticos
+            {
+                id: 60,
+                name: "Ventilador de pedestal",
+                price: 4.7,
+                image: "ventilador.jpg",
+                description: "Ventilador tipo ciclón Milexus",
+                category: "Del Del Hogar"
+            },
+            {
+                id: 61,
+                name: "Split milexus ",
+                price: 4.20,
+                image: "split.jpg",
+                description: "Milexus 1200 btu",
+                category: "Del Hogar"
+            },
+            {
+                id: 62,
+                name: "Frezeer  ",
+                price: 4.20,
+                image: "nevera.jpg",
+                description: "Milexus 5pies ",
+                category: "Del Hogar"
+            },
+            {
+                id:63,
+                name: "Jabon De Olor",
+                price: 7.40,
+                image: "Jabon.jpg",
+                description: "por unidades",
+                category: "Del Hogar"
+            },
+            {
+                id: 55,
+                name: "Papel Higienico ",
+                price: 1.70,
+                image: "papel.jpg",
+                description: "bolsa con 4 unidad sellada",
+                category: "Del Hogar"
+            },
+            {
+                id: 56,
+                name: "Perlas de olor para ropa ",
+                price: 1.70,
+                image: "papel.jpg",
+                description: "frasco de 200 gr",
+                category: "Del Hogar"
+            },
+            {
+                id: 57,
+                name: " Suavizante para ropa ",
+                price: 1.70,
+                image: "suavizante.jpg",
+                description: "Pomo de 1 lt",
+                category: "Del Hogar"
+            },
+            {
+                id: 58,
+                name: " Toallitas humedas multiuso premiun ",
+                price: 1.70,
+                image: "toallas.jpg",
+                description: "Paquete de 120 udst",
+                category: "Del Hogar"
+            },
+            {
+                id: 59,
+                name: "Pastillas de inodoro ",
+                price: 2.40,
+                image: "pastillas.jpg",
+                description: "bolsa de 5 lb",
+                category: "Del Hogar"
             }
         ]
     }
