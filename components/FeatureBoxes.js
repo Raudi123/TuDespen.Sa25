@@ -5,7 +5,7 @@ function FeatureBoxes() {
                 <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
                     <div data-name="feature-box-delivery" className="relative overflow-hidden rounded-lg group">
                         <img 
-                            src="https://images.unsplash.com/photo-1586023492125-27b2c045efd7"
+                            src="portada.jpg"
                             alt="Delivery" 
                             className="w-full h-64 object-cover transform group-hover:scale-110 transition-transform duration-500"
                         />
