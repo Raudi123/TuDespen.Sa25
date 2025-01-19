@@ -15,7 +15,7 @@ function FeatureBoxes() {
                             </div>
                             <h3 className="text-xl font-semibold mb-2 text-white">Compra Online y Entrega a Domicilio</h3>
                             <p className="text-gray-200">
-                                Disfruta de la comodidad de comprar desde casa y recibir tus productos 
+                                Disfruta de la comodidad de comprar desde casa una amplia gama de productos y recibir estos 
                                 directamente en tu puerta.
                             </p>
                         </div>
@@ -23,7 +23,7 @@ function FeatureBoxes() {
                     
                     <div data-name="feature-box-payment" className="relative overflow-hidden rounded-lg group">
                         <img 
-                            src="https://images.unsplash.com/photo-1580519542036-c47de6196ba5"
+                            src="logo.jpg"
                             alt="Payment" 
                             className="w-full h-64 object-cover transform group-hover:scale-110 transition-transform duration-500"
                         />
@@ -33,7 +33,7 @@ function FeatureBoxes() {
                             </div>
                             <h3 className="text-xl font-semibold mb-2 text-white">Múltiples Métodos de Pago</h3>
                             <p className="text-gray-200">
-                                Flexibilidad en tus pagos: Zelle, CUP, MLC o efectivo.
+                                Flexibilidad en tus pagos, ademas de frecuetes promociones y descuentos.
                             </p>
                         </div>
                     </div>
@@ -48,10 +48,10 @@ function FeatureBoxes() {
                             <div className="text-white text-4xl mb-4">
                                 <i className="fas fa-award"></i>
                             </div>
-                            <h3 className="text-xl font-semibold mb-2 text-white">Productos de Alta Calidad</h3>
+                            <h3 className="text-xl font-semibold mb-2 text-white">Soporte al Cliente</h3>
                             <p className="text-gray-200">
-                                Seleccionamos los mejores productos para ti, garantizando 
-                                frescura y calidad.
+                                Contamos con un equipo de atención al cliente que estará con ustedes en todo momento. 
+                                
                             </p>
                         </div>
                     </div>
