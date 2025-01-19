@@ -405,7 +405,7 @@ const stores = [
                 id: 48,
                 name: "Tomate",
                 price: 7.40,
-                image: "tomate.jpg",
+                image: "tomates.jpg",
                 description: "bolsa de 5 lb",
                 category: "Del Agro"
             },
@@ -421,7 +421,7 @@ const stores = [
                 id: 50,
                 name: "Boniato ",
                 price: 2.40,
-                image: "boniato",
+                image: "boniato.jpg",
                 description: "bolsa de 5 lb",
                 category: "Del Agro"
             },
