@@ -470,7 +470,7 @@ const stores = [
                 id: 56,
                 name: "Perlas de olor para ropa ",
                 price: 1.70,
-                image: "papel.jpg",
+                image: "perlas.jpg",
                 description: "frasco de 200 gr",
                 category: "Del Hogar"
             },
@@ -505,7 +505,7 @@ const stores = [
                 price: 4.7,
                 image: "ventilador.jpg",
                 description: "Ventilador tipo ciclón Milexus",
-                category: "Del Del Hogar"
+                category: "De Electrodomésticos"
             },
             {
                 id: 61,
@@ -513,7 +513,7 @@ const stores = [
                 price: 4.20,
                 image: "split.jpg",
                 description: "Milexus 1200 btu",
-                category: "Del Hogar"
+                category: "De Electrodomésticos"
             },
             {
                 id: 62,
@@ -521,55 +521,39 @@ const stores = [
                 price: 4.20,
                 image: "nevera.jpg",
                 description: "Milexus 5pies ",
-                category: "Del Hogar"
+                category: "De Electrodomésticos"
             },
             {
                 id:63,
-                name: "Jabon De Olor",
+                name: "Tv de 32",
                 price: 7.40,
-                image: "Jabon.jpg",
-                description: "por unidades",
-                category: "Del Hogar"
+                image: "32.jpg",
+                description: "Tv inteligente 32 pulgadas",
+                category: "De Electrodomésticos"
             },
             {
-                id: 55,
-                name: "Papel Higienico ",
+                id: 64,
+                name: "Tv de 55  ",
                 price: 1.70,
-                image: "papel.jpg",
-                description: "bolsa con 4 unidad sellada",
-                category: "Del Hogar"
+                image: "55.jpg",
+                description: "Tv inteligente Milexus 55 pulgadas",
+                category: "De Electrodomésticos"
             },
             {
-                id: 56,
-                name: "Perlas de olor para ropa ",
+                id: 65,
+                name: "Batidora Milexus ",
                 price: 1.70,
-                image: "papel.jpg",
-                description: "frasco de 200 gr",
-                category: "Del Hogar"
+                image: "batidora.jpg",
+                description: "Batidora 2 en 1 (+ moledor de sazones)",
+                category: "De Electrodomésticos"
             },
             {
-                id: 57,
-                name: " Suavizante para ropa ",
+                id: 66,
+                name: " Cefetera Milexus ",
                 price: 1.70,
-                image: "suavizante.jpg",
-                description: "Pomo de 1 lt",
-                category: "Del Hogar"
-            },
-            {
-                id: 58,
-                name: " Toallitas humedas multiuso premiun ",
-                price: 1.70,
-                image: "toallas.jpg",
-                description: "Paquete de 120 udst",
-                category: "Del Hogar"
-            },
-            {
-                id: 59,
-                name: "Pastillas de inodoro ",
-                price: 2.40,
-                image: "pastillas.jpg",
-                description: "bolsa de 5 lb",
-                category: "Del Hogar"
+                image: "cafetera.jpg",
+                description: "Cafetera Electrica de 6 tazas",
+                category: "De Electrodomésticos"
             }
         ]
     }
