@@ -454,7 +454,7 @@ const stores = [
                 id: 54,
                 name: "Jabon De Olor",
                 price: 7.40,
-                image: "Jabon.jpg",
+                image: "jabon.jpg",
                 description: "por unidades",
                 category: "Del Hogar"
             },
