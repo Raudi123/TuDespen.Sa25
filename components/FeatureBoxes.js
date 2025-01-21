@@ -13,7 +13,7 @@ function FeatureBoxes() {
                             <div className="text-white text-4xl mb-4">
                                 <i className="fas fa-truck"></i>
                             </div>
-                            <h3 className="text-xl font-semibold mb-2 text-white">Compra Online y Entrega a Domicilio</h3>
+                            <h3 className="text-xl font-semibold mb-2 text-white">Comp Online y Entrega a Domicilio</h3>
                             <p className="text-gray-200">
                                 Disfruta de la comodidad de comprar desde casa una amplia gama de productos y recibir estos 
                                 directamente en tu puerta.
