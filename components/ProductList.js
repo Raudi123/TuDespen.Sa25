@@ -12,14 +12,14 @@ function ProductList({ products, onAddToCart }) {
 
         // Category display order and icons
         const categoryConfig = {
-            'Cárnicos': {  color: 'text-red-500' },
-            'Lácteos': { color: 'text-blue-500' },
-            'Del Confi': { color: 'text-blue-500' },
-            'Líquidos': {  color: 'text-orange-500' },
-            'Del Hogar': {  color: 'text--500' },
-            'De Electrodomésticos': {  color: 'text--500' },
-            'Pastas, Aderezos y Aceites': {  color: 'text-yellow-500' },
-            'Del Agro': {  color: 'text-green-500' }
+            'Cárnicos': { icon: 'fa-drumstick-bite', color: 'text-red-500' },
+            'Lácteos': {icon: 'fa-cheese', color: 'text-blue-500' },
+            'Del Confi': {icon: 'fa-candy-cane', color: 'text-blue-500' },
+            'Líquidos': { icon: 'fa-wine-bottle', color: 'text-orange-500' },
+            'Del Hogar': { icon: 'fa-soap', color: 'text--500' },
+            'De Electrodomésticos': {icon: 'fa-blender',  color: 'text--500' },
+            'Pastas, Aderezos y Aceites': { icon: 'fa-utensils', color: 'text-yellow-500' },
+            'Del Agro': { icon: 'fa-seedling', color: 'text-green-500' }
         };
 
         return (

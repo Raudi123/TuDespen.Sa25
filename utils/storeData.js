@@ -596,7 +596,15 @@ const stores = [
                 image: "soda.jpg",
                 description: "Paquete de 8 uds",
                 category: "Del Confi"
-            }
+            },
+            {
+                id: 72,
+                name: "Generador Eléctrico  ",
+                price: 350,
+                image: "pulsarr.jpg",
+                description: "Generador eléctrico Pulsar 1200 w",
+                category: "De Electrodomésticos"
+            }  
          ]
     }
 ];
