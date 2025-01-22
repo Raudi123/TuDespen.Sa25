@@ -556,14 +556,14 @@ const stores = [
                 description: "Cafetera Electrica de 6 tazas",
                 category: "De Electrodomésticos"
             },
-             //De Electrodomésticos
-             {
-                id: 67,
-                name: "Planta Eléctrica ",
-                price: 4.7,
-                image: "pulsarr.jpg",
-                description: "Generador eléctrico Marca Pulsar Seguridad en generadores 1200 w ",
-                category: "De Electrodomésticos"
+              //Del Confi
+            {
+                id: 31,
+                name: "Choco Biscuit",
+                price: 3.20,
+                image: "chocobiscuit.jpg",
+                description: "Pasta doble concentrado 800 gr",
+                category: "Del Confi"
             }
         ]
     }

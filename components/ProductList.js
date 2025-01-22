@@ -14,6 +14,7 @@ function ProductList({ products, onAddToCart }) {
         const categoryConfig = {
             'Cárnicos': {  color: 'text-red-500' },
             'Lácteos': { color: 'text-blue-500' },
+            'Del Confi': { color: 'text-blue-500' },
             'Líquidos': {  color: 'text-orange-500' },
             'Del Hogar': {  color: 'text--500' },
             'De Electrodomésticos': {  color: 'text--500' },
