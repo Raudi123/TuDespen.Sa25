@@ -425,6 +425,7 @@ const stores = [
                 description: "bolsa de 5 lb",
                 category: "Del Agro"
             },
+            
             //Del Hogar
             {
                 id: 51,
@@ -432,7 +433,7 @@ const stores = [
                 price: 4.7,
                 image: "frazada.jpg",
                 description: "1 unidad",
-                category: "Del Del Hogar"
+                category: "Del Hogar"
             },
             {
                 id: 52,
@@ -554,6 +555,15 @@ const stores = [
                 image: "cafetera.jpg",
                 description: "Cafetera Electrica de 6 tazas",
                 category: "De Electrodomésticos"
+            },
+             //Del Hogar
+             {
+                id: 67,
+                name: "Zapato",
+                price: 4.7,
+                image: "frazada.jpg",
+                description: "1 unidad",
+                category: "Del Hogar"
             }
         ]
     }
