@@ -430,23 +430,23 @@ const stores = [
             {
                 id: 51,
                 name: "Frazada de limpiar suelo",
-                price: 4.7,
+                price: 2.4,
                 image: "frazada.jpg",
-                description: "1 unidad",
+                description: "2 unidad",
                 category: "Del Hogar"
             },
             {
                 id: 52,
                 name: "Detergente para ropa",
-                price: 4.20,
+                price: 5.2,
                 image: "4en1.jpg",
-                description: "bolsa de 5 lb",
+                description: "Pomo de 1 L",
                 category: "Del Hogar"
             },
             {
                 id: 53,
                 name: "Detergente polvo Multiuso ",
-                price: 4.20,
+                price: 2.4,
                 image: "detergente.jpg",
                 description: "bolsa de 500 gr",
                 category: "Del Hogar"
@@ -454,7 +454,7 @@ const stores = [
             {
                 id: 54,
                 name: "Jabon De Olor",
-                price: 7.40,
+                price: 1.2,
                 image: "jabon.jpg",
                 description: "por unidades",
                 category: "Del Hogar"
@@ -462,7 +462,7 @@ const stores = [
             {
                 id: 55,
                 name: "Papel Higienico ",
-                price: 1.70,
+                price: 2.2,
                 image: "papel.jpg",
                 description: "bolsa con 4 unidad sellada",
                 category: "Del Hogar"
@@ -470,7 +470,7 @@ const stores = [
             {
                 id: 56,
                 name: "Perlas de olor para ropa ",
-                price: 1.70,
+                price: 3.5,
                 image: "perlas.jpg",
                 description: "frasco de 200 gr",
                 category: "Del Hogar"
@@ -478,7 +478,7 @@ const stores = [
             {
                 id: 57,
                 name: " Suavizante para ropa ",
-                price: 1.70,
+                price: 6,
                 image: "suavizante.jpg",
                 description: "Pomo de 1 lt",
                 category: "Del Hogar"
@@ -486,7 +486,7 @@ const stores = [
             {
                 id: 58,
                 name: " Toallitas humedas multiuso premiun ",
-                price: 1.70,
+                price: 3.8,
                 image: "toallas.jpg",
                 description: "Paquete de 120 udst",
                 category: "Del Hogar"
@@ -496,14 +496,14 @@ const stores = [
                 name: "Pastillas de inodoro ",
                 price: 2.40,
                 image: "pastillas.jpg",
-                description: "bolsa de 5 lb",
+                description: "4 uds",
                 category: "Del Hogar"
             },
             //De Electrodomésticos
             {
                 id: 60,
                 name: "Ventilador de pedestal",
-                price: 4.7,
+                price: 60,
                 image: "ventilador.jpg",
                 description: "Ventilador tipo ciclón Milexus",
                 category: "De Electrodomésticos"
@@ -511,7 +511,7 @@ const stores = [
             {
                 id: 61,
                 name: "Split milexus ",
-                price: 4.20,
+                price: 380,
                 image: "split.jpg",
                 description: "Milexus 1200 btu",
                 category: "De Electrodomésticos"
@@ -519,7 +519,7 @@ const stores = [
             {
                 id: 62,
                 name: "Frezeer  ",
-                price: 4.20,
+                price: 350,
                 image: "nevera.jpg",
                 description: "Milexus 5pies ",
                 category: "De Electrodomésticos"
@@ -527,7 +527,7 @@ const stores = [
             {
                 id:63,
                 name: "Tv de 32",
-                price: 7.40,
+                price: 260,
                 image: "32.jpg",
                 description: "Tv inteligente 32 pulgadas",
                 category: "De Electrodomésticos"
@@ -535,7 +535,7 @@ const stores = [
             {
                 id: 64,
                 name: "Tv de 55  ",
-                price: 1.70,
+                price: 450,
                 image: "55.jpg",
                 description: "Tv inteligente Milexus 55 pulgadas",
                 category: "De Electrodomésticos"
@@ -543,7 +543,7 @@ const stores = [
             {
                 id: 65,
                 name: "Batidora Milexus ",
-                price: 1.70,
+                price: 45,
                 image: "batidora.jpg",
                 description: "Batidora 2 en 1 (+ moledor de sazones)",
                 category: "De Electrodomésticos"
@@ -551,7 +551,7 @@ const stores = [
             {
                 id: 66,
                 name: " Cefetera Milexus ",
-                price: 1.70,
+                price: 45,
                 image: "cafetera.jpg",
                 description: "Cafetera Electrica de 6 tazas",
                 category: "De Electrodomésticos"
