@@ -556,14 +556,14 @@ const stores = [
                 description: "Cafetera Electrica de 6 tazas",
                 category: "De Electrodomésticos"
             },
-             //Del Hogar
+             //De Electrodomésticos
              {
                 id: 67,
-                name: "Zapato",
+                name: "Planta Eléctrica ",
                 price: 4.7,
-                image: "frazada.jpg",
-                description: "1 unidad",
-                category: "Del Hogar"
+                image: "pulsarr.jpg",
+                description: "Generador eléctrico Marca Pulsar Seguridad en generadores 1200 w ",
+                category: "De Electrodomésticos"
             }
         ]
     }
