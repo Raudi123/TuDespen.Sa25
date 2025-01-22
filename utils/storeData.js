@@ -558,14 +558,46 @@ const stores = [
             },
               //Del Confi
             {
-                id: 31,
+                id: 67,
                 name: "Choco Biscuit",
                 price: 3.20,
                 image: "chocobiscuit.jpg",
-                description: "Pasta doble concentrado 800 gr",
+                description: "18 gr",
+                category: "Del Confi"
+            },
+            {
+                id: 68,
+                name: "Bolita de chocolate",
+                price: 3.20,
+                image: "bolitas.jpg",
+                description: "bolsa de  500 gr",
+                category: "Del Confi"
+            },
+            {
+                id: 69,
+                name: "Best CHocolate ",
+                price: 3.20,
+                image: "conitos.jpg",
+                description: "Pomo de conitos 595 gr",
+                category: "Del Confi"
+            },
+            {
+                id: 70,
+                name: "Galletas kidi vai vai",
+                price: 3.20,
+                image: "kidi.jpg",
+                description: "Paquete de 12 uds",
+                category: "Del Confi"
+            },
+            {
+                id: 71,
+                name: "Galletas Soda ",
+                price: 3.20,
+                image: "soda.jpg",
+                description: "Paquete de 8 uds",
                 category: "Del Confi"
             }
-        ]
+         ]
     }
 ];
 
