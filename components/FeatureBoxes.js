@@ -5,7 +5,7 @@ function FeatureBoxes() {
                 <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
                     <div data-name="feature-box-delivery" className="relative overflow-hidden rounded-lg group">
                         <img 
-                            src="portada.jpg"
+                            src="compras.jpg"
                             alt="Delivery" 
                             className="w-full h-64 object-cover transform group-hover:scale-110 transition-transform duration-500"
                         />
@@ -13,7 +13,7 @@ function FeatureBoxes() {
                             <div className="text-white text-4xl mb-4">
                                 <i className="fas fa-truck"></i>
                             </div>
-                            <h3 className="text-xl font-semibold mb-2 text-white">Compras Online con Entrega a Domicilio</h3>
+                            <h3 className="text-xl font-semibold mb-2 text-white"> Online con Entrega a Domicilio</h3>
                             <p className="text-gray-200">
                                 Disfruta de la comodidad de comprar desde casa una amplia gama de productos y recibir estos 
                                 directamente en tu puerta.
