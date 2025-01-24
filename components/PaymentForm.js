@@ -54,7 +54,7 @@ function PaymentForm({ total, items, onPaymentMethodChange }) {
             message += `\n💰 Total a Pagar: ${convertedTotal.toFixed(2)} ${selectedMethod.currency}`;
             message += ` de 24 a 48 horas pedido completado`;
             
-            const whatsappUrl = `https://wa.me/5354066204?text=${encodeURIComponent(message)}`;
+            const whatsappUrl = `https://wa.me/5353933247?text=${encodeURIComponent(message)}`;
             window.open(whatsappUrl, '_blank');
         };
 
