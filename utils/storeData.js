@@ -233,7 +233,7 @@ const stores = [
             {
                 id: 29,
                 name: "Refresco ",
-                price: 1,
+                price: 1.90,
                 image: "1.5lt.jpg",
                 description: "Pomo de 1.5 Lt ",
                 category: "Líquidos"
@@ -623,7 +623,7 @@ const paymentMethods = {
     mlc: {
         name: "Transferencia MLC",
         currency: "MLC",
-        rate: 1.25
+        rate: 1.40
     },
     cash: {
         name: "Efectivo",
